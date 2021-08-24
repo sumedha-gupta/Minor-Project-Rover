@@ -1,7 +1,7 @@
 ### Picamera Object Detection Using Tensorflow Classifier ###
 #
-# Author: Abhishek Tyagi
-# Date: 06/09/2020
+# Author: Sumedha Gupta
+# Date: 23/08/2021
 # Description: 
 # This program uses a TensorFlow classifier to perform object detection.
 # It loads the classifier uses it to perform object detection on a Picamera feed.
